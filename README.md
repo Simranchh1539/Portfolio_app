@@ -1,16 +1,29 @@
-# portfolio_app
+# Portfolio 
 
-A new Flutter project.
+Portfolio is a flutter application to manage your personal details. Firebase used in this application for storing data.
 
-## Getting Started
+## Pages
 
-This project is a starting point for a Flutter application.
+Page's Sequence in app is as following:
+   1. Splash Screen
+   2. Login Page
+   3. About Page
+   4. Education Page
+   5. Projects Page
+   
+## Packages Used:
+  
+  1. firebase_auth
+  2. firebase_core
+  3. cloud_firestore
+  4. font_awesome_flutter
+  5. url_launcher
+  
+## Features:
 
-A few resources to get you started if this is your first Flutter project:
+  1. Users can easily see and manage their records.
+  
+## Demo
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://user-images.githubusercontent.com/100132569/160397677-9f076ecd-266b-4e60-a423-dbfb410093d1.mp4
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

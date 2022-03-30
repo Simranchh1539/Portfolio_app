@@ -13,11 +13,11 @@ Page's Sequence in app is as following:
    
 ## Packages Used:
   
-  1. firebase_auth
-  2. firebase_core
-  3. cloud_firestore
-  4. font_awesome_flutter
-  5. url_launcher
+  1. firebase_auth (any)
+  2. firebase_core  (any)
+  3. cloud_firestore (any)
+  4. font_awesome_flutter (https://pub.dev/packages/font_awesome_flutter/versions/9.2.0)
+  5. url_launcher (https://pub.dev/packages/url_launcher/versions/5.4.0)
   
 ## Features:
 
